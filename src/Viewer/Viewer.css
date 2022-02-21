@@ -1,0 +1,112 @@
+.art-div {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1.5em;
+    z-index: 3;
+    position: relative;
+    flex-flow: column;
+    align-items: center;
+    color: white;
+    font-family: 'Jura', sans-serif;
+}
+
+.viewer-art-img {
+    width: 85%;
+    display: block;
+    margin: auto;
+    max-height: 60vh;
+    border: 21px rgb(91 31 122) solid;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.qr {
+    margin-left: 3em;
+    width: 12em;
+}
+
+.qr-div {
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    color: white;
+    margin-bottom: 2em;
+    bottom: 0;
+    width: 100%;
+}
+
+.main-div {
+    height: 100vh;
+    width: 100%;
+    background-color: #1d1138;
+}
+
+.cubes {
+    position: absolute;
+    opacity: 50%;
+    z-index: 1;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../opacity-cubes.png');
+}
+
+.big-z {
+    z-index: 3;
+
+}
+
+.ai-text {
+    font-size: 50px;
+}
+
+.art-box {
+    background-color: white;
+    height: 25em;
+    width: 70em;
+    margin-top: 5em;
+    color: black;
+    font-family: 'open-sans';
+}
+
+.all-images {
+    display: flex;
+}
+
+.under-img-div {
+    width: 100%;
+    height: 16em;
+    background-color: rgb(0,0,0,0.5);
+    display: flex;
+    align-items: center;
+}
+
+.bar-text {
+    margin-left: 3em;
+}
+
+.tlvnft-bar {
+    width: 100%;
+    height: 6em;
+    background-color: rgb(250,149,250);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+@import "react-slideshow-image/dist/styles.css";
+
+.cog-img {
+    height: 35em;
+    padding: 1em;
+}
+
+.each-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.art-ai-desc {
+    font-size: 50px;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
