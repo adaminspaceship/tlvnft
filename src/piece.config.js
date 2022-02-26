@@ -313,10 +313,388 @@ const artworks = [
     description:"Courtyard Apocalypse",
     externalUrl:"https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/71349417930267003648058267821921373972951788320258492784107927452162755395585",
     externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/GeRtO-BHvBAo-YcNHJ9_DIaRXPRxrMJa1Dy8spGhCTpytMnypFuPPD5uJjz05Bs_U3_6Pl0sqOKnQYYPy_A-awNCZ4ktzYQ2ENqBhw=w600",
+    title:"Legend #1690",
+    artist: "House Of Legends",
+    latestSalePriceEth:1.5,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/1690",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/aUPR5g0VS1aIKIcDQGSV3AsAFhd1C2iiaJJeiscxaJVnaiMt9vWAUYlf6eaNkWjCwFtYM_k9bAWYkONUucAQ-fBbthA7OwEGTYck9w=w600",
+    title:"Legend #9438",
+    artist: "House Of Legends",
+    latestSalePriceEth:4.4,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/9438",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/Q8TJxljhRZ9KLd8A-W_TnnNWYi6g5PbkltAa2jW5zoIyO0hFhQ-1RFKW2Y4sGIWg3vy9ebCQHnf-F-fvuiX-bjDEoE6ye3g76b-4aQ=w600",
+    title:"Legend #2948",
+    artist: "House Of Legends",
+    latestSalePriceEth:3,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/2948",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/iLDNqKTF-M4Mfob-MYHlZwiozAZNWaiefnDL1OSQNMZ7rI_74bsq_PV3qHmDL9wbJ2YlLD015zR4JgMJgaF1yB4DF9CdEr6QjG-lZA=w600",
+    title:"Legend #4802",
+    artist: "House Of Legends",
+    latestSalePriceEth:3,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/4802",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/E2BlYNVRxa3gTp-iZBbN0p_6QjFcAZA6JEXnosh3T7bzg5ZMC_Cl5TJo7OJ2WbfxkCPqPCRerokpZicvuX9ndP-WNTwBEiveTkeR=w600",
+    title:"Legend #6440",
+    artist: "House Of Legends",
+    latestSalePriceEth:5,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/6440",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/MxP1YjbJ9SbjC3XnIoKdK7XvA-qbbGveSG0EnYSJ9KxgFiOHLQ8Dgvcq0ZDzQQ4-psyfL4rhqj7_oa_HqGq1EapVqy6oqAU9NAnB=w600",
+    title:"Legend #9124",
+    artist: "House Of Legends",
+    latestSalePriceEth:1.5,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/9124",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/hcPNcbxeb71H2KQMef0iC1rdmaz-kPXYsscpKjua0FWTbPP8NvjPHWGKyLztEb2f1RAx4GZ4kWpwQ24K6HHlr--HSzIt8FcNKREf7g=w600",
+    title:"Legend #9820",
+    artist: "House Of Legends",
+    latestSalePriceEth:0,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/9820",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/lcgHMO6p98e43RFqIYpb2d448bvwXmDd9EmDT9lk_msY6BeTB6wdJqUDq-hpRrsU6A7Jb4uBZz5pctdsg_7wXdN8n5_iaeUonvLR=w600",
+    title:"Legend #2685",
+    artist: "House Of Legends",
+    latestSalePriceEth:0.16,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/2685",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/nGz652igXKuq4PBqiOfsb5B2ooPvAcvZxg7a_5xegXWf6EUx9lnjQzXeXkIn1vg44eXQDd9fvUYZaSa-Zwb0rc1KrQDlSSOWFu2aag=w600",
+    title:"Legend #4442",
+    artist: "House Of Legends",
+    latestSalePriceEth:1.73,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/4442",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/vCONLAugdG_EtdRWoFlBwAZJpaQMNSWvwVdlj24T8By3rf6mvjTQnfV-4E7baJkkuol7Y6AqogAGM-d1D5qWmAxhna91eaTZel_1=w600",
+    title:"Legend #5761",
+    artist: "House Of Legends",
+    latestSalePriceEth:22,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/5761",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/ohSKcXmrZJY04i8w4db8Gx_0aOuQwa-Lv0zP6I2i2LcvjNopYCDIEplM7_seqfwzMiCVpooutF6fcU_St97o8y0uME2LzSYgkbSQ=w600",
+    title:"Legend #4200",
+    artist: "House Of Legends",
+    latestSalePriceEth:2,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/4200",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/Qtf-2SWzT9ivPB5nJ-csthKtlbF7dvuFZJRsJs6Vy8djp69HcUQkhCgH_cjdePWncGvMP5MP-me_M5P2ondusShMoTGNfXfVW7KsPlw=w600",
+    title:"Legend #7798",
+    artist: "House Of Legends",
+    latestSalePriceEth:4.5,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/7798",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/qxKpgPeftJNy7q6IbUQpHSxhWfsmrNrOLUWzQhg0JfZVbJsvbLOVigisJ7lwSVHj8u6F_OFr3fFytmkGPpkFiMx7lL0OD9HX-3mGOg=w600",
+    title:"Legend #8304",
+    artist: "House Of Legends",
+    latestSalePriceEth:5,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/8304",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/UtYBYZ8RA8w7_lU8HJ8CJHTj6NRi8_u5nNB7D03qhdJZyByaLKzxMZfZQg01GWlyFzN01bSS5du6IXOo_1D0QPE_FAk8meXmCAznNA=w600",
+    title:"Legend #3569",
+    artist: "House Of Legends",
+    latestSalePriceEth:0.176,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/3596",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/Sl9YZ44KrykKhdbZzdQqAk2_m6oLdK0a7QMYJ4HJ3ytaWLzItTIxYqFENmzR2FlfiKx5f0J_OmNAkZ-HMh9g1R7n2X0iXfP9O5BE-A=w600",
+    title:"Legend #307",
+    artist: "House Of Legends",
+    latestSalePriceEth:0,
+    description:"Member of the Great House of Legends",
+    externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/307",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://firebasestorage.googleapis.com/v0/b/tlvnft-44e12.appspot.com/o/thumbnails%2Fdownload.png?alt=media&token=4f01fd8b-7433-4919-a5ad-f2f0aca3d2f6",
+    title:"SLEEPLESS NIGHTS",
+    artist: "Kafein",
+    latestSalePriceEth:0.55,
+    description:"Can't remember the last time I slept.",
+    externalUrl:"https://foundation.app/@kafein/foundation/83793",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://f8n-ipfs-production.imgix.net/QmNPBPVcgHjSiYosRFu156fbTrKRpJtDzhwUPCKPXMjazc/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680",
+    title:"Destroyed Homeland",
+    artist: "Kafein",
+    latestSalePriceEth:0.20,
+    description:"I just want to go home.",
+    externalUrl:"https://foundation.app/@kafein/foundation/58790",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://f8n-ipfs-production.imgix.net/QmSJx9fZLDwus71kXwjfGqz7RXv2cieCQ3QTqyUBukWy26/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680",
+    title:"DOWNTOWN MARKET",
+    artist: "Kafein",
+    latestSalePriceEth:1,
+    description:"Neon makes them wanna drink.",
+    externalUrl:"https://foundation.app/@kafein/foundation/105325",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://mkpcdn.com/1000x/4c69a0f3ba708fbc4bf5108e0f7007cf_597970.jpg",
+    title:"GOLDEN MOMENT",
+    artist: "Kafein",
+    latestSalePriceEth:1.5,
+    description:"No matter the year, cats will continue to guard the cities.",
+    externalUrl:"https://makersplace.com/jaredsturman/golden-moment-1-of-1-147184/",
+    externalUrlName: "Makersplace"
+  },
+  {
+    imgSrc: "https://i.imgur.com/PSbXQ2r.png",
+    title:"NEON ATLANTIS",
+    artist: "Kafein",
+    latestSalePriceEth:2.5,
+    description:"As the fish swim by...",
+    externalUrl:"https://foundation.app/@kafein/foundation/91363",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://i.imgur.com/VKrl6w8.png",
+    title:"OUTSIDER",
+    artist: "Kafein",
+    latestSalePriceEth:1.5,
+    description:"he's an outsider yet he seems to fit in.",
+    externalUrl:"https://foundation.app/@kafein/foundation/102104",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://f8n-production-collection-assets.imgix.net/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405/130688/QmPAq3o2m55AWskwCRZ2QrdAiM3vGrj5mAcqeSbhC3B9gv/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680",
+    title:"Luminescence",
+    artist: "Kafein",
+    latestSalePriceEth:1.5126,
+    description:"Just a cat strolling through the city.",
+    externalUrl:"https://foundation.app/@kafein/foundation/130688",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/yN2WPWVBpF_6wsEBmGh6yrHW9v9oNqydU9A-QiNynx0lzViMiCuScLuGHsiWT0K7o0-tpW1EoSLWhNMu-sy5Gk3ADdkSJhF7xONdza4=w600",
+    title:"RunAway",
+    artist: "Jozef The Artist",
+    latestSalePriceEth:0.03,
+    description:"We don't create a fantasy world to escape reality. We create it to be able to stay.",
+    externalUrl:"https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/79034374248554380119355111419455649451416874342230642282501916199084162547713",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://i.imgur.com/TSIBxLH.png",
+    title:"I dreamed that I was free",
+    artist: "oxeegeno",
+    latestSalePriceEth:9.5,
+    description:"Yesterday I dreamed that I was free. That there were no oppressive hands, that I was flying through the wind",
+    externalUrl:"https://superrare.com/artwork-v2/i-dreamed-that-i-was-free-23169",
+    externalUrlName: "SuperRare"
+  },
+  {
+    imgSrc: "https://media.niftygateway.com/image/upload/q_auto:good,w_500/v1622734704/Max/SixnFiveSpace/I_Like_You_HR_4-3_oinqsq.jpg",
+    title:"I Like You",
+    artist: "Six N. Five",
+    latestSalePriceEth:5.45,
+    description:"",
+    externalUrl:"https://niftygateway.com/marketplace/collection/0x0e4613bbf418adbea2fb6f2a349b6f2efb1d2005/7",
+    externalUrlName: "Niftygateway"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/vGOm8sVsC2620OrYWlGsieJHJRjfihvyTBXIxmjla7iG_pbNPHP9jTGG9zURo6niw6A4NPxWj2O0V9zlDttwQxawItfQ6rbct695=w600",
+    title:"Human Experiments",
+    artist: "Jozef The Artist",
+    latestSalePriceEth:0,
+    description:"Being Human is given. But keeping our Humanity is a choice.",
+    externalUrl:"https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/79034374248554380119355111419455649451416874342230642282501916320030441603073",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://i.imgur.com/jNtomXs.png",
+    title:"The Drying Rack",
+    artist: "Six N. Five",
+    latestSalePriceEth:0.39,
+    description:"",
+    externalUrl:"https://niftygateway.com/marketplace/collection/0xe2edc9af70169d39a2def95d428cedcaaf30851f/13?filters[onSale]=true&sortBy=lowest",
+    externalUrlName: "Niftygateway"
+  },
+  {
+    imgSrc: "https://f8n-ipfs-production.imgix.net/QmTpVTrbdwJmBiduTYoA29DrZJ7NxQzWA9219c8tyVLgb1/nft.png?q=80&auto=format%2Ccompress&cs=srgb&max-w=1680&max-h=1680",
+    title:"Merge With The Metaverse",
+    artist: "Jozef The Artist",
+    latestSalePriceEth:0,
+    description:"The Metaverse is already here, What's next? Humans are in danger of extinction.",
+    externalUrl:"https://foundation.app/@JZF/foundation/118035",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://i.imgur.com/AtKpaQG.png",
+    title:"Future game #01",
+    artist: "nguyenhut",
+    latestSalePriceEth:2,
+    description:"This game is coming to our life sooner than you think.",
+    externalUrl:"https://foundation.app/@nguyenhut/foundation/70974",
+    externalUrlName: "Foundation"
+  },
+  {
+    imgSrc: "https://media.niftygateway.com/image/upload/q_auto:good,w_500/v1622734704/Max/SixnFiveSpace/I_Missed_you_HR_4-3_zdfwsd.jpg",
+    title:"I Missed You",
+    artist: "Six N. Five",
+    latestSalePriceEth:6.17,
+    description:"",
+    externalUrl:"https://niftygateway.com/marketplace/collection/0x0e4613bbf418adbea2fb6f2a349b6f2efb1d2005/8",
+    externalUrlName: "Niftygateway"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/a4kNHRG8xg1Y5GEM5pXTnJSQCBUl5sQCQLxWjxxRdU-GWma6YsUquaxC6bkFDDsqHRSn21lElFY7i8R_Q8FNo9WlYkBqNPj_g3Xdx5I=w600",
+    title:"#9361",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:500,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/9361",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/a4kNHRG8xg1Y5GEM5pXTnJSQCBUl5sQCQLxWjxxRdU-GWma6YsUquaxC6bkFDDsqHRSn21lElFY7i8R_Q8FNo9WlYkBqNPj_g3Xdx5I=w600",
+    title:"#2922",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:98.9,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/2922",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/O7dBg-ztYkSdaqMIM8HgFsa4VMSV3pHuTPb9UtpiyyNDePDr8vdhERWvf62iIZde0CT0Z92kkdm-oBv2rUQA4_Hr7P9nbqXWWnKMaw=w600",
+    title:"CryptoPunk #5822",
+    artist: "CryptoPunks",
+    latestSalePriceEth:8000,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/5822",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/-9cMB4VA9VkpybHsU7GRCYd_wFTGn6EMctGknpilVYAOhPHZelLZS4HIu_ogy_jxz4TO7gShTeIc9DGe4oy5Wz9ER3_riafzY22d=w600",
+    title:"#9854",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:159.69,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/9854",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/lf0291KLX_4DGHlfWwMMyRJFTqBt-DP66SQqQFeYDQRIoxBH6Wj_V8BvQKVmKcXMQmbJlJ-X80J-OXAKyCjPyBKP-doH_iefZ2XdGg=w600",
+    title:"#1878",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:100,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/1878",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/yoPSu0NQtl4k3AyD7pBmO6c-qDoMQMWELCil5eKjuyuCywOKHYv5U7PSewRwp-FYr9Qj9hOxF-g9m8L1KiGr_DbJ8SEZ6wvF3-N-lA=w600",
+    title:"CryptoPunk #6613",
+    artist: "CryptoPunks",
+    latestSalePriceEth:29.5,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6613",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/eTm2wVt31D3lRxTcrzq0z8MG5GKmDRr5rWDA1WxHCeGepLkCrqhtNQzpGmg_XBvn1tie4F0U1w2X2pMtZCgkvb6gIQTvnw_z7WUV7A=w600",
+    title:"#6883",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:150,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/6883",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/U9b6Gnmd4sffNbzoOunRgo-F-g-Mo8wMLdN6xRI6f3y-_5fb_p5cfiYkDyqjF97_l3f5G21yZeCWpi2IN4mMgIrEbsAii2C7CQVa=w600",
+    title:"CryptoPunk #6487",
+    artist: "CryptoPunks",
+    latestSalePriceEth:550,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6487",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/_Tuk-bN4Ec-6nEvVXGjbb6wa7RlteivPrTFc0N7gvBFECd0Zofg2utAbTWLBpl4Qsvr8iVbwahtGQVf4EDmlDp_tZta0b1J7Dov-=w600",
+    title:"#5407",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:88.4,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/5407",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/4fa_ZMCYOZbDS8jj7SisvbnofvtRuEYFokn-FBVnah3k4g4wD_PaIBZlvHFHOFX7JM7CyUvmKW0LR4guXvQ8DL6Lwd9Omv0oiMRp3Dc=w600",
+    title:"#5017",
+    artist: "Bored Ape Yacht Club",
+    latestSalePriceEth:248,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/5017",
+    externalUrlName: "Opensea"
+  },
+  {
+    imgSrc: "https://lh3.googleusercontent.com/x-8cxWfSABaoHdqyUvosBDeLr4c_6GO4YU17eHAKcF9-SwOj3FEMqQA_7mOwtg9glv7e6P8WnZuDR2_bPTiUvrai=w600",
+    title:"CryptoPunk #5017",
+    artist: "CryptoPunks",
+    latestSalePriceEth:2250,
+    description:"",
+    externalUrl:"https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/5217",
+    externalUrlName: "Opensea"
   }
 ]
 
 export { artworks };
+  // {
+  //   imgSrc: "",
+  //   title:"Legend ",
+  //   artist: "House Of Legends",
+  //   latestSalePriceEth:3,
+  //   description:"Member of the Great House of Legends",
+  //   externalUrl:"https://opensea.io/assets/0x8c714199d2ea08cc1f1f39a60f5cd02ad260a1e3/",
+  //   externalUrlName: "Opensea"
+  // }
 
 // {
 //   imgSrc: "",

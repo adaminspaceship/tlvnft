@@ -28,7 +28,7 @@ const Viewer = () => {
         const urls = await aiServer.getImagesFromServer().catch(err => console.log(err));
         const currentTime = (new Date()).getTime();
         queue = queue.concat(urls);
-        const timePerPicture = 5;
+        const timePerPicture = 60;
         if (queue.length > 1 && (currentTime - queue[0].startDisplayTime) / 1000 > timePerPicture) {
             queue.shift();
             queue[0].startDisplayTime = (new Date()).getTime();
@@ -58,8 +58,8 @@ const Viewer = () => {
                     </div>
                 </div>
                 <img className="tlvnft-bar" src="https://firebasestorage.googleapis.com/v0/b/tlvnft-44e12.appspot.com/o/thumbnails%2FLower%20Bar_00000.PNG?alt=media&token=c48c2c37-88be-4cef-989e-00e8f0701a80" />
-                <span class="art-ai-desc">This art was created using AI</span>
-                <div style={{ width: '100%' }}>
+                <span className='art-ai-desc'>Create your own AI art<br/>Using the iPad below</span>
+                <div style={{ width: '100%', marginTop: '6em' }}>
                     <Slide>
                         {slideImages.map((slideImage, index) => (
                             <div className="each-slide" key={index}>
@@ -72,7 +72,7 @@ const Viewer = () => {
             </div>
             <div className='all-images'>
             </div>
-
+            <img style={{width: '100%'}} src="https://firebasestorage.googleapis.com/v0/b/tlvnft-44e12.appspot.com/o/thumbnails%2FVisit%20at%20cogito.gallery%20(1).png?alt=media&token=78a2c363-1d8f-4534-a041-c4a6903d314a"/>
         </div >
     )
 }

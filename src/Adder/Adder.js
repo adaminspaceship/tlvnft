@@ -8,6 +8,7 @@ const Adder = () => {
     const [nameField, setNameField] = useState(undefined);
     const [artTextField, setArtText] = useState(undefined);
     const [emailField, setEmail] = useState(undefined);
+    const [isDisabled, setIsDisabled] = useState(false);
     const [marketing, setMarketing] = useState(false);
 
     const handleNameChange = event => {
@@ -24,14 +25,20 @@ const Adder = () => {
     }
 
     const onClickSubmit = () => {
-        const url = `https://ec2-44-194-62-29.compute-1.amazonaws.com:8000/generate?query=${artTextField}&username=${nameField}&email=${emailField}`;
-        axios.get(url);
-        //reset fields
-        window.alert('תחזרו לפה עוד כמה דקות ותראו את הציור שלכם!');
-        setNameField('');
-        setArtText('');
-        setEmail('');
-        setMarketing(false);
+        setIsDisabled(true);
+        const url = `https://api.cogito.gallery:8000/generate?query=${artTextField}&username=${nameField}&email=${emailField}`;
+        axios.get(url).then(_ => {
+            window.alert('בעוד כ-2 דקות היצירה שלך תהיה מוצגת על המסך ובמייל שהזנת');
+            setNameField('');
+            setArtText('');
+            setEmail('');
+            setMarketing(false);
+            window.location.reload();
+        }).catch(err => {
+            window.alert(`err: ${err}`);
+        }).finally(() => {
+            setIsDisabled(false);
+        });
     }
 
     return (
@@ -45,10 +52,10 @@ const Adder = () => {
                 <h3 style={{ "marginTop": '3em' }}>Email</h3>
                 <TextField value={emailField} onChange={handleEmailChange} style={{ "width": '15em' }} id="standard-basic" label="Email" variant="filled" />
                 <div style={{ "marginTop": '5em', paddingLeft: '10em', paddingRight: '10em' }}>
-                    <FormControlLabel control={<Checkbox onChange={handleMarketingChange} value={marketing} />} label="I agree to receive my generated Words2Art Image to my email, along with future updates about the Cogito AI Art project"></FormControlLabel>
+                    <FormControlLabel control={<Checkbox onChange={handleMarketingChange} style={{transform: "scale(1.5)"}} value={marketing} />} label="I agree to receive my generated Words2Art Image to my email, along with future updates about the Cogito AI Art project"></FormControlLabel>
                 </div>
                 <div>
-                    <Button style={{ "marginTop": '3em' }} onClick={onClickSubmit} id="submit-button" variant="contained">Submit</Button>
+                    <Button type="button" disabled={isDisabled} style={{ "marginTop": '3em' }} onClick={onClickSubmit} id="submit-button" variant="contained">Submit</Button>
                 </div>
             </form>
         </div>
